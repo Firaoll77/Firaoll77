@@ -1,7 +1,7 @@
 Hi 👋 My name is Firaol Bayisa
 ==============================
 
-Web Developer
+I am Backend Web Developer
 -------------
 
 * ✉️  You can contact me at [firaolbayisa420@gmail.com](mailto:firaolbayisa420@gmail.com)
