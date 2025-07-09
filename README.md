@@ -29,20 +29,8 @@
 
 </div><h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://linkedin.com/Firaol%20Bayisa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/Firaol%20Bayisa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="32" height="20" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://telegram.com/fira_all33" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="20" alt="telegram logo"  />
-  </a>
   <a href="https://instagram.com/fir_ra0l" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
-  </a>
-  <a href="https://Youtube.com/Firaol%20Bayisa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="20" alt="youtube logo"  />
   </a>
 </div>
 
