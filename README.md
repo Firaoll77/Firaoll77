@@ -29,10 +29,6 @@
 
 ###
 
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
-  </a>
-</div>
-
 <h3 align="left">Stars:</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firaoll77&layout=compact&theme=merko" alt=Firaoll77 />
 
