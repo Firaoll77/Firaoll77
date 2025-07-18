@@ -29,9 +29,6 @@
 
 ###
 
-</div><h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://instagram.com/fir_ra0l" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
   </a>
 </div>
