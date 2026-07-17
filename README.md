@@ -27,12 +27,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-###
+###<div align="center">
 
-<h3 align="left">Stars:</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firaoll77&layout=compact&theme=merko" alt=Firaoll77 />
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Firaoll77&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%235ac7f5%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Firaoll77&show_icons=true&locale=en&theme=codestackr" alt="Firaoll77" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Firaoll77&theme=codestackr" alt="Firaoll77" /></p>
-
+</div>
