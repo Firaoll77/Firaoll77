@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firaol Bayisa </h1>
-<h3 align="center">I'm Backend Web Developer</h3>
+<h3 align="center">I'm Fullstack Web Developer</h3>
 
 ###
 
