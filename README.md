@@ -14,13 +14,11 @@
 
 <br>
 
-# <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi there, I'm Firaol Bayisa
+# <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Helllo there, I'm Firaol 
 
-I am a Fullstack Web & Mobile Developer and a Computer Science graduate (Class of 2026) from Haramaya University. 
+I am a Fullstack Web & Mobile Developer and a Comp.Sci graduate.
 
-🎓 I recently completed my final year capstone project, where I built a multi-target weather regression model using Python and machine learning workflows. 
-
-💻 My core interests and development stacks lie within:
+💻 Core interests and development stacks:
 *   **Mobile App Development:** Flutter, Dart
 *   **Full-Stack Web Development:** Laravel, PHP, MySQL, JavaScript, React
 *   **Machine Learning / Data Science:** Python, pandas, scikit-learn, XGBoost
