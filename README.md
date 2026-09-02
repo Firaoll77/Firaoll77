@@ -37,12 +37,6 @@ I am a Fullstack Web & Mobile Developer and a Comp.Sci graduate.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Firaoll77&langs_count=6&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
 
-<div align="center">
-
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Firaoll77&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%235ac7f5%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
-
-</div>
-
 <br>
 
 <p align="center">
