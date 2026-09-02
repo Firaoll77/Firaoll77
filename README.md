@@ -38,12 +38,6 @@ I am a Fullstack Web & Mobile Developer and a Comp.Sci graduate.
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Firaoll77&langs_count=6&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
 
 <br>
-
-<p align="center">
-  <a href="https://github.com/Firaoll77?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-<!-- Note: To make the snake animation work, you will need to set up the GitHub Action in your profile repository -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Firaoll77/Firaoll77/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Firaoll77/Firaoll77/output/github-contribution-grid-snake.svg" />
