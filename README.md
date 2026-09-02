@@ -33,7 +33,7 @@ I am a Fullstack Web & Mobile Developer and a Comp.Sci graduate.
 
 <br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
+
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Firaoll77&langs_count=6&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
 
